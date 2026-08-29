@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://seniors-combinations-bat-feed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://metro-critics-outline-pray.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-29 15:10:53 UTC
+Created   : 2026-08-29 18:35:00 UTC
 =======================================================

@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dodge-color-abc-del.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://airlines-improvement-examples-concerns.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-03 18:42:04 UTC
+Created   : 2026-09-03 22:41:34 UTC
 =======================================================

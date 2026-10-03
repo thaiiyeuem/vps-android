@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://turtle-antibody-unavailable-trucks.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://theoretical-practice-transmitted-aluminum.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-02 23:53:25 UTC
+Created   : 2026-10-03 05:15:17 UTC
 =======================================================

@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://snapshot-committees-exotic-moss.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://united-colored-element-intelligence.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-08 12:06:22 UTC
+Created   : 2026-10-08 20:50:10 UTC
 =======================================================

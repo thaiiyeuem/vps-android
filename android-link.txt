@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tradition-testing-directions-organizations.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://appropriate-freight-top-morris.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-01 16:54:40 UTC
+Created   : 2026-11-01 23:40:27 UTC
 =======================================================
